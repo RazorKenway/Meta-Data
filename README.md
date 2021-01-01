@@ -1,4 +1,4 @@
-# Meta_Data
+# Meta-Data
 You can get Meta data  any file / picture     (py , sh ,jpg ,jpeg ,txt , zip ,etc )
 
 
@@ -9,9 +9,9 @@ You can get Meta data  any file / picture     (py , sh ,jpg ,jpeg ,txt , zip ,et
 
 >`pkg install git
 
->`git clone http://github.com/RazorKenway/Meta_Data.git
+>`git clone http://github.com/RazorKenway/Meta-Data.git
 
->`cd Meta_Data
+>`cd Meta-Data
 
 >`python requirements.py
 
