@@ -20,6 +20,7 @@ You can get Meta data  any file / picture     (py , sh ,jpg ,jpeg ,txt , zip ,et
 
 ### Razor Kenway
 
+### video Lesson here : https://youtu.be/ZOJl_OCh8zA
 
 
 
